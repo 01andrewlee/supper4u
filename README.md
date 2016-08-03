@@ -1,2 +1,3 @@
 # supper4u
-telegram bot for compiling supper orders
+
+An easier (and less messier) way to compile orders.
